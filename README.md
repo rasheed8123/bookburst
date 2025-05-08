@@ -69,3 +69,12 @@
 
 ## 🗂 Project Structure
 
+
+bookburst/
+├React frontend
+├── server/ # Express backend
+│ ├── models/
+│ ├── routes/
+│ ├── controllers/
+│ └── middleware/
+
